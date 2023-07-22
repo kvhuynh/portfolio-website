@@ -7,7 +7,7 @@
 - List Items:
   - Leveraged Java tools (ImageJ/Fiji) in analysis of neuronal development in Drosophila melanogaster
   - Developed genetic schemas for efficient and rigorous experimentation
-  - Mentored and trained undergraduate researchers in laboratory techniques and methodologies
+  - Mentored and trained undergraduate researchers in laboratory techniques and methodologie
 
 ## Company 2
 - *Role* | Feb'23 - Mar'23
