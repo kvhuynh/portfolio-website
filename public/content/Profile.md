@@ -7,7 +7,7 @@
 - I am addicted to league of legends
 
 ## About
-Write your "About" section here.
+Greetings earthling 👽. My interests are in Full Stack Development and Data Science. I am motivated individual looking to leverage my unique background as a previous biomedical researcher to break into the tech industry.
 
 ## Contact
 Feel free to message me
