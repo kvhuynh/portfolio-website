@@ -1,8 +1,8 @@
 ## Site Name
-- Portable Portfolio
+- Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
+- Hi, my name is Kevin. 
 - I'm a software engineer.
 - Short Description Here.
 

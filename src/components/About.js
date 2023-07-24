@@ -6,10 +6,8 @@ import {
   Box,
   HStack,
 } from "@chakra-ui/react";
-import ProfileArray from "./ProfileArray";
 
 export default function About({ color }) {
-  const profile = ProfileArray();
     return (
       <>
         <Container maxW={"3xl"} id="about">
@@ -29,7 +27,7 @@ export default function About({ color }) {
               <Divider orientation="horizontal" />
             </Stack>
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
-              {profile.about}
+            Greetings earthling 👽! I am a highly motivated individual with a background in biomedical research seeking to leverage my unique skill set and insights to excel in the fields of Full Stack Development and Data Science.
             </Text>
           </Stack>
         </Container>

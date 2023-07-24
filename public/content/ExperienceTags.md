@@ -1,3 +1,2 @@
 Work
-Category 2
-Other
+Non professional work
