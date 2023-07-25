@@ -4,7 +4,7 @@ Alternate Twitch.tv browsing tool that implements core functionalities such as s
 - Badges:
   - DEPRECATED [red]
 - Buttons:
-  - Link [https://example.com]
+  <!-- - Link [https://example.com] -->
 
 ## Pokemon Go Community
 Community app that allows users to coordinate raids with a chat system and map.
@@ -13,7 +13,7 @@ Community app that allows users to coordinate raids with a chat system and map.
   - Ongoing [red]
   - React Native [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/kvhuynh/Pokemon-Go-Community]
 
 ## Be Ripe There Back-end
 Test repository for the Be Ripe There application to test manipulation of user input.
@@ -22,4 +22,4 @@ Test repository for the Be Ripe There application to test manipulation of user i
   - Java [green]
   - Spring/Spring Security [yellow]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/kvhuynh/Be-Ripe-There-Backend]

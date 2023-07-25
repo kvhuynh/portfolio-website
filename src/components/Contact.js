@@ -8,7 +8,7 @@ import {
   Heading,
   Center,
 } from "@chakra-ui/react";
-import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaEnvelope, FaFilePdf } from "react-icons/fa";
 
 export default function Contact({ color }) {
   const linkedin = () => {
@@ -20,6 +20,9 @@ export default function Contact({ color }) {
   const email = () => {
     window.open(`mailto:kvhuynh820@gmail.com`, "_blank", "noreferrer,noopener");
   };
+  const resume = () => {
+    window.open("https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:06ba3f32-ba4a-4a52-9538-feea60ffb31b", "_blank", "noreferrer,noopener")
+  }
   return (
     <>
       <Container maxW={"3xl"} id="contact">
@@ -51,6 +54,7 @@ export default function Contact({ color }) {
                 <FaLinkedin onClick={linkedin} size={28} />
                 <FaGithub onClick={github} size={28} />
                 <FaEnvelope onClick={email} size={28} />
+                <FaFilePdf onClick={resume} size={28} />
               </HStack>
             </Center>
           </Stack>
