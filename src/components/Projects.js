@@ -61,7 +61,7 @@ export default function Projects({ color }) {
                   }}
                   overflow="hidden"
                 >
-                  <Image objectFit="cover" src={project.image} />
+                  <Image objectFit="fill" src={project.image} />
 
                   <Stack>
                     <CardBody align="left">

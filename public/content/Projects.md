@@ -1,6 +1,6 @@
 ## Budgit
 Personal finance app that lets users create budgets and aggregate data from all of their financial institutions.
-- ![600x200]("../../../assets/budgit_mascot.svg)
+- ![600x200]("../../../assets/Budgit_pig.svg)
 - Tags: Category 1
 - Badges:
   - In progress [blue]
